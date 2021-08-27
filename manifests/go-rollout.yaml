@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
       - name: rollouts-demo
-        image: nightmar39/go-helloworld:v.1.0.0
+        image: nightmar39/go-helloworld:latest
         ports:
         - name: http
           containerPort: 6111
