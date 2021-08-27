@@ -7,4 +7,4 @@ spec:
   - port: 6111
     targetPort: 6111
   selector:
-    app: guestbook-ui
+    app: go-helloworld
