@@ -4,7 +4,7 @@ metadata:
   name: go-helloworld
 spec:
   ports:
-  - port: 6111
-    targetPort: 6111
+  - port: 6112
+    targetPort: 6112
   selector:
     app: go-helloworld

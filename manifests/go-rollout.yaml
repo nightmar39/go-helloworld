@@ -28,7 +28,7 @@ spec:
         image: nightmar39/go-helloworld:latest
         ports:
         - name: http
-          containerPort: 6111
+          containerPort: 6112
           protocol: TCP
         resources:
           requests:
